@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">welness-app</string>
+    <string name="tet_1">Aliquam porttitor urna eget justo malesuada bibendum a vitae odio.</string>
+    <string name="tet_2">Aliquam congue lacus in sagittis semper.</string>
+    <string name="tet_3">Duis efficitur nibh in risus imperdiet tristique.</string>
+    <string name="tet_4">Etiam molestie nibh at dictum fringilla.</string>
+    <string name="tet_5">Duis blandit erat vitae orci imperdiet, quis rutrum nunc ultricies.</string>
+    <string name="tet_6">Praesent dictum lacus at ligula porta dignissim.</string>
+    <string name="tet_7">Aliquam molestie risus quis ultrices tristique.</string>
+    <string name="tet_8">Ut sodales massa eu mattis cursus.</string>
+    <string name="tet_9">Donec a ex eu risus euismod vehicula.</string>
+    <string name="tet_10">Maecenas viverra mauris in sem lacinia, vel sollicitudin sapien maximus.</string>
+    <string name="tet_11">Vivamus vel nulla sed ipsum lobortis vulputate at eget elit.</string>
+    <string name="tet_12">Curabitur vehicula ante ut nibh efficitur consequat.</string>
+    <string name="tet_13">Duis eget augue quis nulla porta sollicitudin.</string>
+    <string name="tet_14">Donec ut sem ullamcorper, porta turpis ut, lacinia erat.</string>
+    <string name="tet_15">Ut luctus nisi vitae tincidunt pharetra.</string>
+    <string name="tet_16">Vestibulum ac urna iaculis, porttitor felis et, tincidunt ante.</string>
+    <string name="tet_17">Nam eget arcu sed diam scelerisque auctor sit amet quis eros.</string>
+    <string name="tet_18">In ac augue hendrerit, ultricies turpis vitae, iaculis risus.</string>
+    <string name="tet_19">Vivamus pellentesque orci vitae nulla vehicula, id pharetra libero consequat.</string>
+    <string name="tet_20">Nulla rhoncus est dignissim arcu luctus laoreet.</string>
+    <string name="tet_21">Phasellus aliquet risus ut posuere tempus.</string>
+    <string name="tet_22">Phasellus et nisi tempus, malesuada ligula a, sagittis eros.</string>
+    <string name="tet_23">Quisque facilisis ex eu porttitor mollis.</string>
+    <string name="tet_24">Vestibulum in nibh eget enim consequat viverra.</string>
+    <string name="tet_25">Fusce aliquet turpis vitae sem gravida iaculis quis non felis.</string>
+    <string name="tet_26">Praesent vitae lacus tristique, dapibus dolor vel, luctus metus.</string>
+    <string name="tet_27">Phasellus efficitur mi quis augue accumsan aliquet.</string>
+    <string name="tet_28">Praesent condimentum ante at lobortis dictum.</string>
+    <string name="tet_29">Mauris sed lectus a dui imperdiet ornare vel et orci.</string>
+    <string name="tet_30">Duis at elit in risus porttitor consequat sit amet in est.</string>
+</resources>
